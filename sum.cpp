@@ -8,4 +8,6 @@ int main()
     c=a+b;
 
     cout<<c;
+    cout<< "This program is only for testing";
+    
 }
